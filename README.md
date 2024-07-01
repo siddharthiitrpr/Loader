@@ -1,2 +1,2 @@
 # Loader
-Designed a Loader on Solidworks
+A CAD model of a Loader designed on Solidworks
